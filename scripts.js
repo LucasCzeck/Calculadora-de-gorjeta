@@ -24,5 +24,4 @@ if(conta == '' | serviço == 0){
 
 document.getElementById('totaltips').style.display = "none";
 document.getElementById('each').style.display = "none";
-
 document.getElementById('tipsForm').addEventListener('submit', calculateTip);

@@ -69,7 +69,6 @@ body {
 }
 
 .formSubmit:hover {
-    cursor: pointer;
     border: var(--tertiary-color);
 }
 
